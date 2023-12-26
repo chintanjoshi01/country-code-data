@@ -37,7 +37,7 @@ Usage Example
 
 ```java
     private ArrayList<CodeModel> getCountryCodeList() {
-    // Assuming `getJsonFromAssets` and `R.string.country_codes_json` are methods and resources defined elsewhere in your code
+    // Assuming `getJsonFromAssets` and `R.string.country_codes_data_json` are methods and resources defined elsewhere in your code
     String dataCode = getJsonFromAssets(this, getString(R.string.country_codes_data_json));
     Gson gson = new Gson();
     Type listCode = new TypeToken<ArrayList<CodeModel>>() {}.getType();
