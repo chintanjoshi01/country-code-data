@@ -1,0 +1,193 @@
+﻿Name,Dial Code,Code,Mobile Number Length
+Afghanistan,93,AF,9
+Albania,355,AL,9
+Algeria,213,DZ,9
+Andorra,376,AD,9
+Angola,244,AO,9
+Antigua and Barbuda,1-268,AG,10
+Argentina,54,AR,10
+Armenia,374,AM,8
+Australia,61,AU,9
+Austria,43,AT,13
+Azerbaijan,994,AZ,9
+Bahamas,1-242,BS,10
+Bahrain,973,BH,8
+Bangladesh,880,BD,11
+Barbados,1-246,BB,10
+Belarus,375,BY,9
+Belgium,32,BE,10
+Belize,501,BZ,7
+Benin,229,BJ,8
+Bhutan,975,BT,8
+Bolivia,591,BO,8
+Bosnia and Herzegovina,387,BA,8
+Botswana,267,BW,8
+Brazil,55,BR,11
+Brunei,673,BN,8
+Bulgaria,359,BG,9
+Burkina Faso,226,BF,8
+Burundi,257,BI,8
+Cambodia,855,KH,9
+Cameroon,237,CM,8
+Canada,1,CA,10
+Cape Verde,238,CV,7
+Central African Republic,236,CF,7
+Chad,235,TD,8
+Chile,56,CL,9
+China,86,CN,11
+Colombia,57,CO,10
+Comoros,269,KM,7
+Congo,242,CG,9
+Costa Rica,506,CR,8
+Croatia,385,HR,9
+Cuba,53,CU,8
+Cyprus,357,CY,8
+Czech Republic,420,CZ,9
+Denmark,45,DK,8
+Djibouti,253,DJ,8
+Dominica,1-767,DM,10
+Dominican Republic,1-809,DO,10
+East Timor,670,TL,7
+Ecuador,593,EC,9
+Egypt,20,EG,10
+El Salvador,503,SV,8
+Equatorial Guinea,240,GQ,7
+Eritrea,291,ER,7
+Estonia,372,EE,8
+Eswatini,268,SZ,8
+Ethiopia,251,ET,9
+Fiji,679,FJ,7
+Finland,358,FI,10
+France,33,FR,9
+Gabon,241,GA,7
+Gambia,220,GM,7
+Georgia,995,GE,9
+Germany,49,DE,11
+Ghana,233,GH,9
+Greece,30,GR,10
+Grenada,1-473,GD,10
+Guatemala,502,GT,8
+Guinea,224,GN,8
+Guinea-Bissau,245,GW,8
+Guyana,592,GY,7
+Haiti,509,HT,8
+Honduras,504,HN,8
+Hungary,36,HU,9
+Iceland,354,IS,7
+India,91,IN,10
+Indonesia,62,ID,11
+Iran,98,IR,10
+Iraq,964,IQ,10
+Ireland,353,IE,10
+Israel,972,IL,9
+Italy,39,IT,10
+Jamaica,1-876,JM,10
+Japan,81,JP,11
+Jordan,962,JO,9
+Kazakhstan,7,KZ,10
+Kenya,254,KE,9
+Kiribati,686,KI,5
+Korea,82,KR,10
+Kuwait,965,KW,8
+Kyrgyzstan,996,KG,9
+Laos,856,LA,8
+Latvia,371,LV,8
+Lebanon,961,LB,8
+Lesotho,266,LS,8
+Liberia,231,LR,7
+Libya,218,LY,9
+Liechtenstein,423,LI,8
+Lithuania,370,LT,8
+Luxembourg,352,LU,9
+Madagascar,261,MG,9
+Malawi,265,MW,9
+Malaysia,60,MY,9
+Maldives,960,MV,7
+Mali,223,ML,8
+Malta,356,MT,8
+Marshall Islands,692,MH,7
+Mauritania,222,MR,8
+Mauritius,230,MU,7
+Mexico,52,MX,10
+Micronesia,691,FM,7
+Moldova,373,MD,8
+Monaco,377,MC,9
+Mongolia,976,MN,8
+Montenegro,382,ME,8
+Morocco,212,MA,9
+Mozambique,258,MZ,9
+Myanmar,95,MM,8
+Namibia,264,NA,9
+Nauru,674,NR,7
+Nepal,977,NP,10
+Netherlands,31,NL,10
+New Zealand,64,NZ,9
+Nicaragua,505,NI,8
+Niger,227,NE,8
+Nigeria,234,NG,11
+North Macedonia,389,MK,8
+Norway,47,NO,8
+Oman,968,OM,8
+Pakistan,92,PK,10
+Palau,680,PW,7
+Panama,507,PA,8
+Papua New Guinea,675,PG,8
+Paraguay,595,PY,9
+Peru,51,PE,9
+Philippines,63,PH,10
+Poland,48,PL,9
+Portugal,351,PT,9
+Qatar,974,QA,8
+Romania,40,RO,9
+Russia,7,RU,10
+Rwanda,250,RW,9
+Saint Kitts and Nevis,1-869,KN,10
+Saint Lucia,1-758,LC,10
+Saint Vincent and the Grenadines,1-784,VC,10
+Samoa,685,WS,7
+San Marino,378,SM,9
+Sao Tome and Principe,239,ST,7
+Saudi Arabia,966,SA,9
+Senegal,221,SN,9
+Serbia,381,RS,8
+Seychelles,248,SC,7
+Sierra Leone,232,SL,8
+Singapore,65,SG,8
+Slovakia,421,SK,9
+Slovenia,386,SI,8
+Solomon Islands,677,SB,7
+Somalia,252,SO,8
+South Africa,27,ZA,9
+South Sudan,211,SS,9
+Spain,34,ES,9
+Sri Lanka,94,LK,9
+Sudan,249,SD,9
+Suriname,597,SR,7
+Sweden,46,SE,9
+Switzerland,41,CH,9
+Syria,963,SY,9
+Taiwan,886,TW,9
+Tajikistan,992,TJ,9
+Tanzania,255,TZ,9
+Thailand,66,TH,9
+Togo,228,TG,8
+Tonga,676,TO,7
+Trinidad and Tobago,1-868,TT,10
+Tunisia,216,TN,8
+Turkey,90,TR,10
+Turkmenistan,993,TM,8
+Tuvalu,688,TV,5
+Uganda,256,UG,9
+Ukraine,380,UA,9
+United Arab Emirates,971,AE,9
+United Kingdom,44,GB,10
+United States,1,US,10
+Uruguay,598,UY,8
+Uzbekistan,998,UZ,9
+Vanuatu,678,VU,7
+Vatican City,379,VA,9
+Venezuela,58,VE,10
+Vietnam,84,VN,10
+Yemen,967,YE,9
+Zambia,260,ZM,9
+Zimbabwe,263,ZW,9
